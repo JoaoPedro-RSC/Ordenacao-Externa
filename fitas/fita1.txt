@@ -1,0 +1,32 @@
+  412790 0.00 MT CUIABA                                            ADMINISTRACAO                 
+   37379 17.80 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+  456679 22.00 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+  300056 22.00 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+  306088 24.00 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+  111954 27.50 MT CUIABA                                            ADMINISTRACAO                 
+   23133 28.00 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+   85344 31.80 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+  101991 33.50 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+  170838 34.80 MT CUIABA                                            ADMINISTRACAO                 
+  170558 35.30 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+  238292 38.00 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+  340424 41.80 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+  364281 42.30 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+  220132 43.50 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+   61117 43.50 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+  216194 44.30 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+  373477 44.30 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+  412715 44.50 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+  336015 46.00 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+   34535 46.00 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+   41603 47.00 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+  313201 48.80 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+  331437 49.00 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+  295222 49.30 MT CUIABA                                            ADMINISTRACAO                 
+  301105 53.50 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+  280714 55.30 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+  382513 55.80 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+   66198 56.00 MT CUIABA                                            ADMINISTRACAO                 
+  319299 60.00 MT CUIABA                                            ADMINISTRACAO                 
+   58175 61.50 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+  113812 67.30 MT CUIABA                                            ADMINISTRACAO                 

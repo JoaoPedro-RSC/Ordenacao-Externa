@@ -1,0 +1,24 @@
+  239419 0.00 MT CUIABA                                            ADMINISTRACAO                 
+   57202 0.00 MT AGUA BOA                                          ADMINISTRACAO                 
+  402740 18.80 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+  412481 20.50 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+  386413 24.50 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+  203779 30.00 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+  142590 31.00 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+  213434 32.30 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+  182746 33.30 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+   37778 36.50 MT CUIABA                                            ADMINISTRACAO                 
+   59131 36.80 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+  278763 39.80 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+  102393 40.50 MT CUIABA                                            ADMINISTRACAO                 
+  400008 42.00 MT CUIABA                                            ADMINISTRACAO                 
+  221291 42.50 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+  354405 43.80 MT CUIABA                                            ADMINISTRACAO                 
+  254576 46.00 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+  124947 53.80 DF BRASILIA                                          ADMINISTRACAO                 
+  131227 57.30 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+  394101 57.50 DF BRASILIA                                          ADMINISTRACAO                 
+  120699 58.30 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+   86358 61.30 DF BRASILIA                                          ADMINISTRACAO                 
+  150205 62.80 DF BRASILIA                                          ADMINISTRACAO                 
+  382868 70.30 DF BRASILIA                                          ADMINISTRACAO                 

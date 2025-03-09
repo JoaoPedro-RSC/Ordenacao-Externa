@@ -1,0 +1,42 @@
+  423855 0.00 MT CUIABA                                            ADMINISTRACAO                 
+  151750 0.00 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+  370724 0.00 MT CUIABA                                            ADMINISTRACAO                 
+   59573 0.00 MT CUIABA                                            ADMINISTRACAO                 
+  207334 0.00 MT CUIABA                                            ADMINISTRACAO                 
+  346592 14.00 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+   65996 16.30 MT AGUA BOA                                          ADMINISTRACAO                 
+  269932 17.50 MT CUIABA                                            ADMINISTRACAO                 
+  121505 18.80 MT CUIABA                                            ADMINISTRACAO                 
+  301802 20.00 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+  163079 23.80 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+  210550 24.50 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+    5317 25.50 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+  362081 27.50 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+   88312 31.30 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+  183699 31.50 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+  173550 34.30 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+  162633 36.50 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+  409928 37.00 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+    3393 37.50 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+  202266 38.80 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+  107236 40.30 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+  224450 40.50 MT CUIABA                                            ADMINISTRACAO                 
+    9997 43.50 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+   35798 45.00 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+  369241 46.50 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+  406263 47.50 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+  213784 48.00 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+  106233 48.00 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+   10357 48.80 MT CUIABA                                            ADMINISTRACAO                 
+  454483 50.00 MT CUIABA                                            ADMINISTRACAO                 
+   21887 51.80 MT CUIABA                                            ADMINISTRACAO                 
+  209822 53.00 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+  123883 53.80 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+  124597 55.80 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+  351991 57.80 MT CUIABA                                            ADMINISTRACAO                 
+  409557 58.80 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+  386649 62.50 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+  301503 65.30 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+  440588 66.80 MT PRIMAVERA DO LESTE                                ADMINISTRACAO                 
+  350655 69.30 MT CUIABA                                            ADMINISTRACAO                 
+  426064 72.30 MT CUIABA                                            ADMINISTRACAO                 
